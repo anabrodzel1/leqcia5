@@ -1,0 +1,164 @@
+    h1 {color: #30CBC2;
+  width: 223;
+height: 58;
+top: 470px;
+left: 757px;
+margin: 54px;
+margin: 52px;
+}
+
+h1, .A, .B {
+  display: inline-block;
+  margin: 66px;
+}
+
+.A {color: #4E6FAE;
+  font-family: FiraGO;
+font-weight: 700;
+font-size: 26px;
+line-height: 100%;
+letter-spacing: 0%;
+width: 115;
+height: 34;
+top: 458px;
+left: 474px;
+}
+
+.B {color: #8D81FF;
+font-family: FiraGO;
+font-weight: 700;
+font-size: 26px;
+line-height: 100%;
+letter-spacing: 0%;
+width: 150;
+height: 34;
+top: 458px;
+left: 272px;
+}
+
+h3 {color: #4E6FAE;
+width: 150;
+height: 34;
+top: 255px;
+left: 885px;
+font-family: FiraGO;
+font-weight: 700;
+font-size: 26px;
+line-height: 100%;
+letter-spacing: 0%;
+
+}
+
+h4 { color: #4E6FAE;
+  width: 484;
+height: 34;
+top: 255px;
+left: 1070px;
+font-family: FiraGO;
+font-weight: 400;
+font-size: 26px;
+line-height: 100%;
+letter-spacing: 0%;
+
+}
+
+h3, h4 {display: inline-block;
+margin: 20px}
+
+.F { width: 50px;
+height: 50px;
+top: 4490px;
+left: 1970px;
+}
+.J {color: #3F4145;
+width: 307;
+height: 23;
+top: 336px;
+left: 1466px;
+font-family: Roboto;
+font-weight: 400;
+font-size: 20px;
+line-height: 100%;
+letter-spacing: 0%;
+}
+
+p {color: #7E8898;
+width: 335;
+height: 95;
+top: 380px;
+left: 1035px;
+font-family: Roboto;
+font-weight: 400;
+font-size: 16px;
+line-height: 100%;
+letter-spacing: 0%;
+}
+
+.G {width: 77px;
+height: 77px;
+top: 389px;
+left: 921px;
+}
+
+.G {float: left;
+margin: 20px}
+
+.G, p {
+background-color: #E7E7E7;
+padding: 20px;
+align-content: center;
+background-width: 200px;
+background-height: 100px;
+background-top: 200px;
+background-left: 100px;
+margin: 65px;
+box-sizing: border-box;
+}
+
+.G, p {display: inline-block;
+  margin: 20px;
+}
+
+nav, ul {display: inline;}
+h1, nav, ul {vertical-align: top;}
+
+
+    body  {
+      font-family: Arial, sans-serif;
+      background: #ffffff;
+      padding: 40px;
+    }
+
+    .container {
+      display: flex;
+      gap: 30px;
+      justify-content: center;
+    }
+
+    .card {
+      background: #eee;
+      padding: 20px;
+      width: 300px;
+      display: flex;
+      align-items: center;
+      gap: 15px;
+      border-radius: 5px;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    }
+
+    .card img {
+      width: 40px;
+      height: 40px;
+    }
+
+    .card-content h4 {
+      margin: 0;
+      font-size: 14px;
+      font-weight: bold;
+    }
+
+    .card-content p {
+      margin: 5px 0 0 0;
+      font-size: 13px;
+      color: #555;
+    }

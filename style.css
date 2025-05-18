@@ -1,0 +1,104 @@
+h1 {color: #30CBC2;
+  width: 223;
+height: 58;
+top: 470px;
+left: 757px;
+margin: 54px;
+margin: 52px;
+}
+
+h1, .A, .B {
+  display: inline-block;
+  margin: 66px;
+  vertical-align: text-top;
+}
+
+.A {color: #4E6FAE;
+font-family: FiraGO;
+font-weight: 700;
+font-size: 26px;
+line-height: 100%;
+letter-spacing: 0%;
+width: 115;
+height: 34;
+top: 458px;
+left: 474px;
+}
+
+.B {color: #8D81FF;
+font-family: FiraGO;
+font-weight: 700;
+font-size: 26px;
+line-height: 100%;
+letter-spacing: 0%;
+
+width: 150;
+height: 34;
+top: 458px;
+left: 272px;
+}
+
+span {color: #84FF81;
+width: 31;
+height: 34;
+top: -360px;
+left: -746px;
+background-color: #5012D5;
+padding: 10px; 20px: 
+}
+
+h3 {color: #4E6FAE;
+font-family: "BPG Square", sans-serif;
+font-weight: 700;
+font-size: 20px;
+line-height: 100%;
+letter-spacing: 0%;
+width: 578;
+height: 34;
+top: -258px;
+left: -757px;
+}
+
+.C {color: #4E6FAE;
+width: 578;
+height: 34;
+top: -258px;
+left: -757px;
+}
+
+.D {color: #4E6FAE;
+width: 778;
+height: 281;
+top: -210px;
+left: -244px;
+font-family: "ALK Rex Bold", sans-serif;
+font-weight: 700;
+font-size: 16px;
+line-height: 100%;
+letter-spacing: 0%;
+}
+
+.img {float: left;
+  margin-right: 20px;
+}
+
+h4 {color: #8D81FF;
+font-family: "BPG Nostalgia", sans-serif;
+width: 70;
+height: 34;
+top: -300px;
+left: -757px;
+font-weight: 400;
+font-size: 24px;
+line-height: 100%;
+letter-spacing: 0%;
+}
+
+.F { width: 50px;
+height: 50px;
+top: 4490px;
+left: 1970px;
+}
+
+nav, ul {display: inline;}
+h1, nav, ul {vertical-align: top;}

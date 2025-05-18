@@ -1,0 +1,100 @@
+h1 {color: #30CBC2;
+	width: 223;
+height: 58;
+top: 470px;
+left: 757px;
+margin: 54px;
+margin: 52px;
+}
+
+h1, .A, .B {
+	display: inline-block;
+	margin: 66px;
+}
+
+.A {color: #4E6FAE;
+font-family: FiraGO;
+font-weight: 700;
+font-size: 26px;
+line-height: 100%;
+letter-spacing: 0%;
+width: 115;
+height: 34;
+top: 458px;
+left: 474px;
+}
+
+.B {color: #8D81FF;
+font-family: FiraGO;
+font-weight: 700;
+font-size: 26px;
+line-height: 100%;
+letter-spacing: 0%;
+width: 150;
+height: 34;
+top: 458px;
+left: 272px;
+}
+
+nav, ul {display: inline;}
+h1, nav, ul {vertical-align: top;}
+
+.cont {display: block;
+background-color: #E7E7E7;
+width: 1250px;
+height: 600px;
+top: 315px;
+left: 885px;
+}
+
+.L {color: #7E8898;
+font-family: Helvetica Neue LT GEO;
+font-weight: 400;
+font-size: 20px;
+line-height: 100%;
+letter-spacing: 0%;
+font-family: Helvetica Neue LT GEO;
+font-weight: 400;
+font-size: 20px;
+line-height: 100%;
+letter-spacing: 0%;
+}
+
+.M {color: #3F4145;
+font-family: Helvetica Neue LT GEO;
+font-weight: 400;
+font-size: 20px;
+line-height: 100%;
+letter-spacing: 0%;
+font-family: Helvetica Neue LT GEO;
+font-weight: 400;
+font-size: 20px;
+line-height: 100%;
+letter-spacing: 0%;
+}
+
+h3 {color: #4E6FAE;
+width: 474;
+height: 34;
+top: -288px;
+left: 2324px;
+font-family: Helvetica Neue;
+font-weight: 700;
+font-size: 36px;
+line-height: 100%;
+letter-spacing: 0%;
+}
+
+.N {float: right;
+margin-bottom: 1000px;
+margin-right: 66px}
+
+.L, .M {display: inline-block;
+	margin-right: 60px	;
+}
+
+.F { width: 50px;
+height: 50px;
+top: 4490px;
+left: 1970px;
+}
